@@ -8,3 +8,6 @@ for(int i=0;i<3;i++){
 
 //测试是否通信
 System.out.println("通信正常！！！")
+
+/第一次输入
+1234
